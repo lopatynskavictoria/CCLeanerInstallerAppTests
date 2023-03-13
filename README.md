@@ -1,7 +1,7 @@
 # CCLeanerInstallerAppTests
 Instruction on how to run autotests for CCleaner Installer
 
-Prereauisites:
+Prerequisites:
 - Visual Studio Community edition(free version) is installed
 
 1. Open 'CCLeanerInstallerAppTests' project using Visual Studio IDE
