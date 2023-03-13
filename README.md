@@ -8,7 +8,8 @@ Prereauisites:
 2. Build solution (menu Build-> Build Solution)
 3. Open Test Explorer (menu Test - > Test Explorer) and select test to run:
 
-![image](https://user-images.githubusercontent.com/54169203/224752250-137d367f-b12d-427e-9daf-6dbde982ce81.png)
+![image](https://user-images.githubusercontent.com/54169203/224756815-2cc3b170-56fd-413f-b33c-78418e740bf2.png)
+
 
 
 Screenshots for failed tests are located in bin\screenshots folder
